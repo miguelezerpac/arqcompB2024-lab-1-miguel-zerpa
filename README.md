@@ -23,7 +23,7 @@
 ## Habilidades
 - **Aprendo Rápido**
 - **Soy Multitasking**
--**Trabajo en Equipo** 
+- **Trabajo en Equipo** 
 
 ## Proyectos
 - **Proyecto 1**: Juego de Poker.
