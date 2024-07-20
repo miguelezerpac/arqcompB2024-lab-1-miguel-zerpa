@@ -22,7 +22,7 @@
 
 ## Habilidades
 - **Aprendo Rápido**
-- **Soy Multitasking**
+- **Multitasking**
 - **Trabajo en Equipo** 
 
 ## Proyectos
